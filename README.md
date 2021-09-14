@@ -1,15 +1,7 @@
-Perform maintenance on the following project.
-You have incorrect locators, change them and run the application.
+I've Performed maintenance on the following project.
+Locators has been fixed, changed them and run the application.
 
-Pre conditions:
-
-      Clone the repo
-
-      Perform the corresponding changes
-
-      Send your Repository with your changes
-
-The script should do the following flow:
+The script  do the following flow:
 
     Open browser and go to google.com
 
@@ -20,3 +12,7 @@ The script should do the following flow:
     Once in Unosquare home page
 
     Click on Services menu, Practice Areas menu and Contact Us menu
+    
+    Close the browser 
+    
+    Recording: https://www.screencast.com/t/8NrgIrjud 
